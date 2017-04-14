@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from zipfile import ZipFile
 import sys
 import argparse
